@@ -41,7 +41,9 @@ Before you begin, ensure you have the following installed:
 
 Run the FastAPI server with the following command:
 
+```
 uvicorn main:app
+```
 
 ### Accessing the API
 
